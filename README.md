@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hello, my name is inyoung.
 
+🏫: I am student of Sogang University in Seoul, Sinchon. 
+<br>  
+  : My first major is Art&Technology and second major is Software Convergence Engineering. 
+
+Matter.js / 
 <!--
 **rmdnps10/rmdnps10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
