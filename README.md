@@ -19,14 +19,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width = 100 /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=100 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=100 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"width=100/>
-          
-          
-          
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"width=100/>          
+        
 </p>
-          
-          
+<br>
+<br>
+<h2 align="center"> My interest😜 </h2>
+  <p align ="center">My main intestest is Frontend web development!</p>
+  <p align ="center">I like viusalize something using various tools.</p>
+  
+  
+
+
+        
 <!--
 **rmdnps10/rmdnps10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
