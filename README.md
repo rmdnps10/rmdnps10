@@ -1,9 +1,12 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=200&section=header&text=Inyoung&fontSize=90&stroke=c6d0ce)
+</div>
 
 
-<h3 align="left" font-size=30> 🏫&nbsp;&nbsp;&nbsp;&nbsp;Who? : Student of Sogang University in Seoul, Sinchon </h3>
-<h3 align="left"> 📖&nbsp;&nbsp;&nbsp;&nbsp;Major? : Art&Technology / Software Convergence Engineering </h3>
-<h3> 👴&nbsp;&nbsp;&nbsp;&nbsp;Age : 23</h3>
+<p align="center" font-size=30> 🏫&nbsp;&nbsp;&nbsp;<b>Who?</b> : Student of Sogang University in Seoul </h3>
+<p align="center"> 📖&nbsp;&nbsp;&nbsp;<b>Major?</b> : Art&Technology / Software Convergence Engineering </h3>
+<p align="center"> 🎉&nbsp;&nbsp;&nbsp;<b>My Birth</b> : 2001.12.15</h3>
 <br>
 <br>
 
