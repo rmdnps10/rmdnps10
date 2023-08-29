@@ -8,6 +8,8 @@
 <p align="center" font-size=30> 🏫&nbsp;&nbsp;&nbsp;<b>Who?</b> : Student of Sogang University in Seoul </h3>
 <p align="center"> 📖&nbsp;&nbsp;&nbsp;<b>Major?</b> : Art&Technology / Software Convergence Engineering </h3>
 <p align="center"> 🎉&nbsp;&nbsp;&nbsp;<b>My Birth</b> : 2001.12.15</h3>
+<p align="center"> 😊&nbsp;&nbsp;&nbsp;<b>Recent Interest</b> : React's state management tools and Backend basic logic/h3>
+
 <br>
 <br>
 
