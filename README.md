@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=200&section=header&text=Inyoung&fontSize=90&stroke=c6d0ce)
 </div>
 
-<div align="center">
-[![Inyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmdnps10)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 <p align="center" font-size=30> 🏫&nbsp;&nbsp;&nbsp;<b>Who?</b> : Student of Sogang University in Seoul </h3>
