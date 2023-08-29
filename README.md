@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=200&section=header&text=Inyoung&fontSize=90&stroke=c6d0ce)
 </div>
 
+[![Inyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inyoung)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center" font-size=30> 🏫&nbsp;&nbsp;&nbsp;<b>Who?</b> : Student of Sogang University in Seoul </h3>
 <p align="center"> 📖&nbsp;&nbsp;&nbsp;<b>Major?</b> : Art&Technology / Software Convergence Engineering </h3>
