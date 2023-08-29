@@ -24,14 +24,14 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
+ <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
          
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</p>
+
+ 
+
 <br>
 <br>
 <h2 align="center"> My interest😜 </h2>
