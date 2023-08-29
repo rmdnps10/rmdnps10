@@ -3,7 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=200&section=header&text=Inyoung&fontSize=90&stroke=c6d0ce)
 </div>
 
-[![Inyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inyoung)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Inyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmdnps10)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p align="center" font-size=30> 🏫&nbsp;&nbsp;&nbsp;<b>Who?</b> : Student of Sogang University in Seoul </h3>
 <p align="center"> 📖&nbsp;&nbsp;&nbsp;<b>Major?</b> : Art&Technology / Software Convergence Engineering </h3>
@@ -13,7 +16,6 @@
 
 <h2 align="center">My Stacks 🚀</h2>
 <p align="center"> 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=100/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=100/> 
