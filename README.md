@@ -27,12 +27,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/premierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<p align="center">
-  
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=rmdnps10)](https://solved.ac/rmdnps10)
-   </p>      
-</p>
+
 
 
  
