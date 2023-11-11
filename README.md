@@ -1,7 +1,7 @@
 ### Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 <p>웹 개발을 공부하고 있는 정인영입니다🙋‍♂️ </p>
 <p> 🏫<b>&nbsp; Major</b> : Art & Technology / Software Convergence Engineering </h3>
-<p> 창의적인 인러랙티브 웹과 프론트엔드 기술 스택에 관심이 많습니다 :) </p>
+<p> 창의적인 인터랙티브 웹과 프론트엔드 기술 스택에 관심이 많습니다 :) </p>
 
 
 
