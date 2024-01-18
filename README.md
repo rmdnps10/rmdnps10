@@ -10,8 +10,16 @@
 
 
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=rmdnps10&theme=gruvbox-duo)](https://git.io/streak-stats)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rmdnps10&theme=gruvbox-duo)](https://git.io/streak-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmdnps10)](https://github.com/eungyeole/velog-readme-stats)
+
+
+
+</div>
+
 
 
 <h2 align="center">Current Stacks 🚀</h2>
