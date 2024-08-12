@@ -4,10 +4,10 @@
 <p> 🏫<b>&nbsp; Major</b> : Art & Technology / Software Convergence Engineering </h3>
 <p>🔥 <b>Current Activity</b></p>
 
-- 서강대학교 멋쟁이사자처럼 12기 대표
-- 신촌 IT창업연합동아리 CEOS 18기 FE, <b>경험공유 기반 연애상담플레이스 셰어마인드 개발 중</b>👨‍💻
-- 코딩 교육 플랫폼 Coding Valley 근무 중 
-- 2024 ATC Web Team Leader
+- 23.11 ~ 신촌 IT창업연합동아리 CEOS 18기 FE, <b>경험공유 기반 연애상담플레이스 셰어마인드 개발 중</b>👨‍💻
+- 24.03 ~ 서강대학교 멋쟁이사자처럼 12기 대표
+- 24.07 ~ 코딩 교육 플랫폼 Coding Valley 근무 중 
+- 24.08 ~ 2024 ATC Web Team Leader
   
 <br/><br/>
 
