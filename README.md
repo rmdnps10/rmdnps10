@@ -5,6 +5,7 @@
 
 # Activity
 
+
 <pre>
 20.03 - now    Student of <a href="https://creative.sogang.ac.kr/">Sogang University, Department of Art and Technology</a>
   
@@ -22,6 +23,10 @@
 
 - <a href="https://www.codingvalley.com/about/book">HTML CSS hands on course book</a>
 - <a href="https://www.codingvalley.com/about/book">React hands on course book</a>
+  
+<img width="100" alt="스크린샷 2024-09-16 오후 5 27 07" src="https://github.com/user-attachments/assets/4f1c3ad2-58af-42cc-bd19-6760ea1e510d"><img width="100" alt="스크린샷 2024-09-16 오후 5 27 27" src="https://github.com/user-attachments/assets/4c886525-9d1b-4e24-ab4c-ffda0fe6b2db">
+
+
   
 24.08 - now    🦸‍♂️ 2024 Art&Technology Conference Web Team Leader
 </pre>
