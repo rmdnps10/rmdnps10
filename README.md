@@ -31,7 +31,7 @@
 <pre>
 <b>~ing</b>
 
-🔥 <a href="https://www.sharemindapp.com/share">경험 공유 연애 상담 플랫폼, 셰어마인드</a> 👨‍💻 FRONTEND
+🔥 <a href="https://www.sharemindapp.com/share">경험 공유 연애 상담 플랫폼, 셰어마인드</a> 👨‍💻 FRONTEND 
 
 🔥🔥🔥 Art & Technology 전시 웹사이트 👨‍💻 CTO (Team leader)
 
@@ -39,15 +39,23 @@
 
 🔥🔥 <a href="https://github.com/Modubus/ModubusFrontend">장애인과 버스 기사를 매칭하여 대중교통 이용 문제를 해결하는 어플, 모두버스</a> 👨‍💻 FRONTEND
 
+<b>Latest Projects</b>
+  
+🎨 Media art archive Projects archive using p5.js   <a href="https://github.com/rmdnps10/p5.js-algorithmic-work">🔗 repo</a>
+  
+👩‍🦲 <a href="https://korea-population-simulator.vercel.app/">Korean Population Simulator</a>  <a href="https://github.com/rmdnps10/Korea-Population-Simulator?tab=readme-ov-file">🔗 repo</a>
+
+⚓️ School Club Recruiting Site, Crews  <a href="https://github.com/Goonco/crews-old-client">🔗 repo</a>
+
 </pre>
 
 # 📚 Study
 
-| during... &nbsp;&nbsp;&nbsp;&nbsp; | study title                       | topic                     | 🔗 Github respository                                     |
+| during... &nbsp;&nbsp;&nbsp;&nbsp; | study title                       | topic                     | 🔗 repo
 | ---------- | --------------------------------- | ------------------------- | --------------------------------------------------------- |
-| 24.03 - 05 | Modern react deep dive study      | React operating principle | https://github.com/Deep-Dive-React/react-study-archive    |
-| 24.06 - 08 | Inflearn Spring Boot study        | Spring Boot JPA           | https://github.com/Mustsa-Spring-Study/Spring-Boot        |
-| 24.06 - 08 | 자만추 (자바스크립트만 추구한다.) | Javascript algorithm      | https://github.com/Mustsa-JS-Algorithm-Study/JS-Algorithm |
+| 24.03 - 05 | Modern react deep dive book study      | React operating principle | [🔗](https://github.com/Deep-Dive-React/react-study-archive)    |
+| 24.06 - 08 | Spring Boot study based on Inflearn lecture (김영한)      | Spring Boot JPA           | [🔗](https://github.com/Mustsa-Spring-Study/Spring-Boot)        |
+| 24.06 - 08 | 자만추 (자바스크립트만 추구한다.) | Javascript algorithm      | [🔗](https://github.com/Mustsa-JS-Algorithm-Study/JS-Algorithm) |
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rmdnps10)](https://github.com/eungyeole/velog-readme-stats)
 
