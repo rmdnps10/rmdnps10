@@ -21,6 +21,8 @@
   
 24.07 - now    @Coding Education company, <a href="https://www.codingvalley.com/">Coding Valley</a> Contents Team
 
+24.10 - now    Sogang Global Link Ambassador (3rd term), managing a Korean corporate booth at CES 2025.
+
 📚 Books I've written..
 
 - <a href="https://www.codingvalley.com/about/book">HTML CSS hands on course book</a>
