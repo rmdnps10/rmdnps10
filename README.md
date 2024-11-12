@@ -13,11 +13,11 @@
   
 23.03 - now    Student of Sogang University, Department of Convergence Software
   
-23.03 - 23.12  Member of <a href="">LikeLion Sogang 11th</a> (Sogang University IT Startup club) - Frontend part
+23.03 - 23.12  Member of <a href="https://www.likelionsg.site/">LikeLion Sogang 11th</a> (Sogang University IT Startup club) - Frontend part
   
 23.09 - 24.02  Member of <a href="https://ceos-sinchon.com/">CEOS 18th</a> (Sinchon union IT Startup club) - Frontend part
   
-24.03 - now    🦸‍♂️ Manager of <a href="https://github.com/LIKELION-SOGANG">Likelion Sogang 12th</a>
+24.03 - now    🦸‍♂️ Manager of <a href="https://www.likelionsg.site/">Likelion Sogang 12th</a>
   
 24.07 - now    @Coding Education company, <a href="https://www.codingvalley.com/">Coding Valley</a> Contents Team
 
