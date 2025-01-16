@@ -17,11 +17,13 @@
   
 23.09 - 24.02  Member of <a href="https://ceos-sinchon.com/">CEOS 18th</a> (Sinchon union IT Startup club) - Frontend part
   
-24.03 - now    🦸‍♂️ Manager of <a href="https://www.likelionsg.site/">Likelion Sogang 12th</a>
+24.03 - 24.12  🦸‍♂️ Manager of <a href="https://www.likelionsg.site/">Likelion Sogang 12th</a>
   
-24.07 - now    @Coding Education company, <a href="https://www.codingvalley.com/">Coding Valley</a> Contents Team
+24.07 - 24.12    @Coding Education company, <a href="https://www.codingvalley.com/">Coding Valley</a> Contents Team
 
-24.10 - now    Sogang Global Link Ambassador (3rd term), managing a Korean corporate booth at CES 2025.
+24.10 - 25.01   Sogang Global Link Ambassador (3rd term), managing a Korean corporate booth at CES 2025.
+
+25.01 - now     Kakaobank DevRel assistant
 
 📚 Books I've written..
 
