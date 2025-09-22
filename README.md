@@ -1,7 +1,7 @@
 ### Hi, there. My name is... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
 <p align="center"> <b>Inyoung Chung</b> <br/> ✨ who is studying web devlopment to make a "positive impact on the world".</p>
-<p align="center"> 👨‍💻 My nowadays interest is <b>Interactive web</b> and <b>Frontend Deveolopment</b>. </p>
+<p align="center"> 👨‍💻 My nowadays interest is <b>AI</b> and <b>Software Engineering</b>. </p>
 
 <p align="center"> 📞 Contact me : rmdnps10@gmail.com </p>
 <p align="center"> I'm looking for job where I can fully use my talents. </p>
