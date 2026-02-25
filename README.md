@@ -8,5 +8,5 @@
 <sub><sup><b>코딩밸리 (Coding Valley)</b> FE intern (2024.07 - 2025.01)</sup></sub>  
 
 
-[More Info 📌](https://rmdnps10.github.io/portfolio/) </br>
+[More Info 📌](https://inyoung.dev/portfolio/) </br>
 
