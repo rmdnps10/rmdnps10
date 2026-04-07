@@ -1,4 +1,4 @@
-# 정인영 (난너의오른팔) [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)  [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/) 
+# 정인영 (난너의오른팔) 
 
 ### [🧑‍💻 테크 블로그 구경오세요!](https://inyoung.dev/)
 
